@@ -1,2 +1,1 @@
-# FWD_Website
-The website for my start-up.
+<meta http-equiv="refresh" content="0; https://fwd.ml">
